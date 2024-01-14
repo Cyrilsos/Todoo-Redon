@@ -1,11 +1,12 @@
 import Image from "next/image";
-import { Hero, Navbar } from "@/Components";
+import { Hero, Navbar, Body1 } from "@/Components";
 
 export default function Home() {
   return (
     <main className="overflow-hidden">
       <Navbar />
       <Hero />
+      <Body1 />
     </main>
   );
 }
