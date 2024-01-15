@@ -1,4 +1,4 @@
-If you are contributing to the project, please Add to the Sub-1 brang
+If you are contributing to the project, please Add to the Sub-1 branch
 
 
 
