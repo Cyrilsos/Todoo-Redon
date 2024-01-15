@@ -2,8 +2,8 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="flex">
-      <div className="p-10 w-1/2 ml-20">
+    <div className="flex m-20">
+      <div className="p-10 w-1/2">
         <h1 className="font-bold font-sans text-5xl">
           Experience the Best Maid Services in Gated Communities.
         </h1>

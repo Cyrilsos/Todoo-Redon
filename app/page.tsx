@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Hero, Navbar, Body1 } from "@/Components";
+import { Hero, Navbar, Body1, Body2 } from "@/Components";
 
 export default function Home() {
   return (
@@ -7,6 +7,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Body1 />
+      <Body2 />
     </main>
   );
 }
