@@ -12,8 +12,8 @@ const Plan = () => {
         <button>Monthly</button>
       </div>
       <div className="flex justify-between">
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 ">
-          <h1>Heading X</h1>
+        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center ">
+          <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
           <p>Upto 3 member family</p>
@@ -27,8 +27,8 @@ const Plan = () => {
           <a>Terms and conditions</a>
           <button>Book Now</button>
         </div>
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 ">
-          <h1>Heading X</h1>
+        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center">
+          <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
           <p>Upto 3 member family</p>
@@ -42,8 +42,8 @@ const Plan = () => {
           <a>Terms and conditions</a>
           <button>Book Now</button>
         </div>
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 ">
-          <h1>Heading X</h1>
+        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center">
+          <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
           <p>Upto 3 member family</p>
