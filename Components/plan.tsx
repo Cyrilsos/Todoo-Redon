@@ -12,7 +12,7 @@ const Plan = () => {
         <button>Monthly</button>
       </div>
       <div className="flex justify-between">
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center ">
+        <div className="flex-auto bg-white text-black border-black w-1/5 ml-20 mr-10 text-center rounded-lg ">
           <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
@@ -24,10 +24,12 @@ const Plan = () => {
             Within allocated time, you use the maid to perform do any work
             except cooking, cleaning bathrooms and risky areas.{" "}
           </p>
-          <a>Terms and conditions</a>
-          <button>Book Now</button>
+          <p>
+            <a className=" text-orange-500 ">Terms and conditions</a>
+          </p>
+          <button className="p-5">Book Now</button>
         </div>
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center">
+        <div className="flex-auto bg-white text-black border-black w-1/5 ml-20 mr-10 text-center rounded-lg">
           <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
@@ -39,10 +41,12 @@ const Plan = () => {
             Within allocated time, you use the maid to perform do any work
             except cooking, cleaning bathrooms and risky areas.{" "}
           </p>
-          <a>Terms and conditions</a>
-          <button>Book Now</button>
+          <p>
+            <a className=" text-orange-500 ">Terms and conditions</a>
+          </p>
+          <button className="p-5">Book Now</button>
         </div>
-        <div className="flex-auto bg-white text-black border-black w-1/4 ml-20 mr-10 text-center">
+        <div className="flex-auto bg-white text-black border-black w-1/5 ml-20 mr-10 text-center rounded-lg">
           <h1 className="mb-3 font-bold text-l mt-10">Heading X</h1>
           <p>Duration: x Min/day</p>
           <p>For X&X bhk</p>
@@ -54,8 +58,10 @@ const Plan = () => {
             Within allocated time, you use the maid to perform do any work
             except cooking, cleaning bathrooms and risky areas.{" "}
           </p>
-          <a>Terms and conditions</a>
-          <button>Book Now</button>
+          <p>
+            <a className=" text-orange-500 ">Terms and conditions</a>
+          </p>
+          <button className="p-5">Book Now</button>
         </div>
       </div>
     </div>
