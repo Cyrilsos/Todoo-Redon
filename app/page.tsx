@@ -1,5 +1,13 @@
 import Image from "next/image";
-import { Hero, Navbar, Body1, Body2, Plan, Contactbtn } from "@/Components";
+import {
+  Hero,
+  Navbar,
+  Body1,
+  Body2,
+  Plan,
+  Contactbtn,
+  Teste,
+} from "@/Components";
 
 export default function Home() {
   return (
@@ -10,6 +18,7 @@ export default function Home() {
       <Body2 />
       <Plan />
       <Contactbtn />
+      <Teste />
     </main>
   );
 }
