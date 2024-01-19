@@ -6,14 +6,14 @@ const Plan = () => {
         <h1 className="justify-center flex">Pricing Plans</h1>
       </div>
 
-      <div className="flex justify-center">
+      <div className="flex justify-center mb-10">
         <button className="bg-orange-600 hover:bg-orange-500 inline-flex items-center px-4 py-2 text-white text-sm font-medium rounded-md mt-10">
           Instant
         </button>
-        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10">
+        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10 ml-5">
           Weekly
         </button>
-        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10">
+        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10 ml-5">
           Monthly
         </button>
       </div>
