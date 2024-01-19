@@ -7,9 +7,15 @@ const Plan = () => {
       </div>
 
       <div className="flex justify-center">
-        <button>Instant</button>
-        <button>Weekly</button>
-        <button>Monthly</button>
+        <button className="bg-orange-600 hover:bg-orange-500 inline-flex items-center px-4 py-2 text-white text-sm font-medium rounded-md mt-10">
+          Instant
+        </button>
+        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10">
+          Weekly
+        </button>
+        <button className="bg-white hover:bg-orange-500 inline-flex items-center px-4 py-2 text-black text-sm font-medium rounded-md mt-10">
+          Monthly
+        </button>
       </div>
       <div className="flex justify-between">
         <div className="flex-auto bg-white text-black border-black w-1/5 ml-20 mr-10 text-center rounded-lg ">
