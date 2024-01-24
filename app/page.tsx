@@ -7,6 +7,7 @@ import {
   Plan,
   Contactbtn,
   Teste,
+  Blog,
 } from "@/Components";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <Plan />
       <Contactbtn />
       <Teste />
+      <Blog />
     </main>
   );
 }
