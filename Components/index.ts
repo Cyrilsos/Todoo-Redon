@@ -6,5 +6,6 @@ import Plan from "./plan";
 import Contactbtn from "./Contactbtn";
 import Teste from "./Teste";
 import Blog from "./Blog";
+import Footer from "./Footer";
 
-export { Hero, Navbar, Body1, Body2, Plan, Contactbtn, Teste, Blog };
+export { Hero, Navbar, Body1, Body2, Plan, Contactbtn, Teste, Blog, Footer };

@@ -8,6 +8,7 @@ import {
   Contactbtn,
   Teste,
   Blog,
+  Footer,
 } from "@/Components";
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
       <Contactbtn />
       <Teste />
       <Blog />
+      <Footer />
     </main>
   );
 }
