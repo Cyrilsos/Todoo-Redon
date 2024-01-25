@@ -7,5 +7,17 @@ import Contactbtn from "./Contactbtn";
 import Teste from "./Teste";
 import Blog from "./Blog";
 import Footer from "./Footer";
+import Footer2 from "./Footer2";
 
-export { Hero, Navbar, Body1, Body2, Plan, Contactbtn, Teste, Blog, Footer };
+export {
+  Hero,
+  Navbar,
+  Body1,
+  Body2,
+  Plan,
+  Contactbtn,
+  Teste,
+  Blog,
+  Footer,
+  Footer2,
+};

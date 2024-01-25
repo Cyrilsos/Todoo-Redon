@@ -9,6 +9,7 @@ import {
   Teste,
   Blog,
   Footer,
+  Footer2,
 } from "@/Components";
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
       <Teste />
       <Blog />
       <Footer />
+      <Footer2 />
     </main>
   );
 }
